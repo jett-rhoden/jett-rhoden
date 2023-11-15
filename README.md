@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jett-rhoden
-- 👀 I’m interested in playing games & coding
-- 🌱 I’m currently learning how to code quickly
-- 💞️ I’m looking to collaborate on nothing, nothing at all
-- 📫 How to reach me, you dont
+- Hello, I'm @jett.rhoden but you can call me Casper
+- Currently I have been enjoying a game called Valorant
+- I'm currently learning how to code things consistantly
+- I do not wish to collaborate on anything
+- If you would like to contact me, message me on discord [jett.rhoden]
 
 <!---
 jett-rhoden/jett-rhoden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
